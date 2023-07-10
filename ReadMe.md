@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Sam Skywalker.
 - 👀 I’m interested in Computational Systems, AI & ML.
 - 🌱 I’m currently exploring Web Development.
-- 💞️ I’m looking to collaborate on something beyond (I have no clue!):
+- 💞️ I’m looking to collaborate on something beyond ( I have no clue! ):
 - 📫 You can reach me at, starboy@skywalkersam.dev
 
 <!---
