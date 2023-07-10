@@ -1,8 +1,8 @@
 - 👋 Hello, I’m Sam Skywalker.
-- 👀 I’m interested in Computational Systems, Computer Programming, Artificial Intelligence and Machine Learning..
-- 🌱 I’m currently learning Software Development/Engineering, Web Development, Cloud, AI & ML, Computational Systems and Security...
-- 💞️ I’m looking to collaborate on Anything("I'm not sure"), Just focusing on myself and learning stuff....
-- 📫 You can reach me by, starboy@skywalkersam.dev.....
+- 👀 I’m interested in Computational Systems, AI & ML.
+- 🌱 I’m currently exploring Web Development.
+- 💞️ I’m looking to collaborate on something beyond (I have no clue!):
+- 📫 You can reach me at, starboy@skywalkersam.dev
 
 <!---
 skywalkerSam/skywalkerSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
