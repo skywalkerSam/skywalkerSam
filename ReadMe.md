@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, Cybersecurity, Web Development and, AI & ML.
 - 🌱 I’m currently exploring Web Development.
 - 💞️ I’m looking to collaborate on Web Development Projects!
-- 📫 You can reach me at, starboy@skywalkersam.dev
+- 📫 You can reach me at, sam@skywalkersam.dev
 
 <!---
 skywalkerSam/skywalkerSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
