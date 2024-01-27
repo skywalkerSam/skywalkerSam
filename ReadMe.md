@@ -1,8 +1,8 @@
 - 👋 Hello, I’m Sam Skywalker.
-- 👀 I’m interested in IT, Cybersecurity, Web Development and, AI & ML.
+- 👀 I’m interested in Full Stack Web Development, AI & ML, and Cybersecurity.
 - 🌱 I’m currently exploring Web Development.
 - 💞️ I’m looking to collaborate on Web Development Projects!
-- 📫 You can reach me at, sam@skywalkersam.dev
+- 📫 You can reach me at, contact.samskywalker@gmail.com
 
 <!---
 skywalkerSam/skywalkerSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
