@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Sam Skywalker
 - 👀 I’m interested in Web Development stuff
 - 🌱 I’m currently exploring IT & Web Development
-- 💞️ I’m looking to collaborate on anything cool ;)
+- 💞️ I’m looking to collaborate on anything cool... lol ;)
 - 📫 You can reach me at, contact.samskywalker@gmail.com
 
 <!---
