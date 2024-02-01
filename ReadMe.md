@@ -1,7 +1,7 @@
-- 👋 Hello, I’m Sam Skywalker.
-- 👀 I’m interested in Full Stack Web Development, AI & ML, and Cybersecurity.
-- 🌱 I’m currently exploring Web Development.
-- 💞️ I’m looking to collaborate on Web Development Projects!
+- 👋 Hello, I’m Sam Skywalker
+- 👀 I’m interested in Web Development stuff
+- 🌱 I’m currently exploring IT & Web Development
+- 💞️ I’m looking to collaborate on anything cool ;)
 - 📫 You can reach me at, contact.samskywalker@gmail.com
 
 <!---
