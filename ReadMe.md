@@ -9,7 +9,7 @@ I've been learning to code for 5 years now. I'm basically interested in all kind
 * 🖥️  See my portfolio at [skywalkersam.dev - Under Development!](http://skywalkersam.dev)
 * ✉️  You can contact me at [contact.samskywalker@gmail.com](mailto:contact.samskywalker@gmail.com)
 * 🚀  I'm currently working on [skywalkersam.dev](http://skywalkersam.dev)
-* 🧠  I'm learning React Native.
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on anything cool... lol ;)
 * ⚡  I'm a nerd, dreamer, gamer, stories, movies, music, Life, Universe, and whatever tf lies beyond...
 
