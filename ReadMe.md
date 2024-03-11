@@ -4,7 +4,7 @@ Hi 👋 My name is Sam Skywalker
 Full Stack Web Developer
 ------------------------
 
-I've been learning to code for 5 years now. I'm basically interested in all kinds of Computational Systems & Networks. I started my journey by installing Ubuntu on my ancient PC which has the \`Intel Core 2 Duo\` CPU, and had a hard time just running Windows 8. Then I started learning more and more, and here I am. It began as a hobby and turned into a passion. Linux, then Python, then Simple HTML websites, then Javascript, Node, React, and so on... What a world...!
+I've been learning to code for 5 years now. I'm basically interested in all kinds of Computational Systems & Networks. I started my journey by installing Ubuntu on my ancient PC which has the \`Intel Core 2 Duo\` CPU, and had a hard time just running Windows. Then I started learning more and more, and here I am. It began as a hobby and turned into a passion. Linux, then Python, then Simple HTML websites, then Javascript, Node, React, and so on... What a world...!
 
 * 🖥️  See my portfolio at [skywalkersam.dev - Under Development!](http://skywalkersam.dev)
 * ✉️  You can contact me at [contact.samskywalker@gmail.com](mailto:contact.samskywalker@gmail.com)
