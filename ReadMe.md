@@ -1,4 +1,4 @@
-👋 I'm Sam Skywalker. yeah! fr*
+👋 I'm Sam Skywalker... yeah! fr*
 ==============================
 
 Full Stack Developer
