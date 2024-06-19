@@ -1,4 +1,4 @@
-Hi 👋 My name is Sam Skywalker
+👋 I'm Sam Skywalker. yeah! fr*
 ==============================
 
 Full Stack Developer
@@ -6,12 +6,12 @@ Full Stack Developer
 
 been learning to code for 5 years now... started off by installing Ubuntu on my ancient PC which had the \`Intel Core 2 Duo\`, and had a hard time with windows. then started learning more, and here I am. which began as a hobby, turned into a passion... Linux, Python, simple HTML websites, Javascript, Node, React, and so on...
 
-* 🖥️  See my portfolio at [skywalkersam.dev - Under Development!](http://skywalkersam.dev)
-* ✉️  You can contact me at [contact.samskywalker@gmail.com](mailto:contact.samskywalker@gmail.com)
-* 🚀  I'm currently working on [skywalkersam.dev](http://skywalkersam.dev)
-* 🧠  I'm learning DSA rn*
-* 🤝  I'm open to collaborating on anything cool... lol ;)
-* ⚡  I'm a Nerd, Dreamer, Music, Movies, Books, Physics, Life, Universe, and whatever tf lies beyond...
+* 🖥️  [skywalkersam.dev - Under Development!](http://skywalkersam.dev)
+* ✉️  Mail [contact.samskywalker@gmail.com](mailto:contact.samskywalker@gmail.com)
+* 🚀  Currently working on [skywalkersam.dev](http://skywalkersam.dev)
+* 🧠  Learning DSA rn*
+* 🤝  Open to collaborate on anything cool... lol ;)
+* ⚡  A Nerd, Dreamer, Music, Movies, Books, Physics, Life, Universe, and whatever tf lies beyond...
 
 ### Skills
 
