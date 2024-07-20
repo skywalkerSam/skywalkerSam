@@ -4,7 +4,7 @@
 Full Stack Developer
 ------------------------
 
-been learning to code for 5 years now... started off by installing Ubuntu on my ancient PC which had the \`Intel Core 2 Duo\` and had a hard time with windows. then started learning more... and here I am. which began as a hobby, turned into a passion... Linux, Python, simple HTML websites, Javascript, Node, React, and life goes on...
+I've been learning to code for 5 years now... started off by installing Ubuntu on my ancient PC which had the \`Intel Core 2 Duo\` and had a hard time with windows. then started learning more... and here I am. which began as a hobby, turned into a passion... Linux, Python, simple HTML websites, Javascript, Node, React, and life goes on...
 
 * 🖥️  [skywalkerSam.dev](http://skywalkersam.dev)
 * ✉️  [contact.samskywalker@gmail.com](mailto:contact.samskywalker@gmail.com)
