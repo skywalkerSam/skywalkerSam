@@ -1,18 +1,20 @@
 👋 I'm Sam Skywalker, and I write code...
 ==============================
 
+<!--
 Explorer
 ------------------------
 Yeah, fr*
+-->
 
-I've been learning to code for 5 years now... Started off by installing Ubuntu on my ancient PC which had the legendary \`Intel Core 2 Duo\` and just had a hard time running Windows. Then I started learning more and more, and here I am. What began as a hobby, turned into a kind of passion... Linux, Python, Simple HTML Websites, JavaScript, Node, React, and life goes on...
+I've been learning to code for 6 years now. Started off with installing Ubuntu on my ancient PC which was having a hard time w/ Windows 10. Then I started learning more and more, and here I am. What began as a hobby, turned into a kind of a passion. Linux, Python, JS/TS, Node, React, NEXT.js, and life goes on...
 
 * 🖥️  [skywalkerSam.dev](http://skywalkersam.dev)
 * ✉️  [contact.samskywalker@gmail.com](mailto:contact.samskywalker@gmail.com)
 * 🚀  Currently working on [skywalkerSam.dev](http://skywalkersam.dev)
 * 🧠  Exploring web development frameworks, and algorithms rn*
 * 🤝  Open to collaborate on anything cool... lol.)
-* ⚡  A nerd, dreamer, music addict, movies, stories, books, physics, life, the universe, and whatever tf lies beyond.)
+* ⚡  A nerd, dreamer, music addict, movies, stories, books, life, physics, cosmos, and whatever tf lies beyond...
 
 <!--
 ### Skills
