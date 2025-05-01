@@ -7,14 +7,14 @@ Explorer
 Yeah, fr*
 -->
 
-I've been learning to code for 6 years now, started off by installing Ubuntu on my ancient PC which was having a hard time with/ Windows. Then I started learning more and more, and here I am. What began as a hobby, turned into a passion. Linux, Python, JS/TS, Node, React, and life goes on...
+I've been learning to code for ~6 years now... i started off by installing Ubuntu on my ancient PC, which was having a hard time with Windows. i started learning more and more, and life went on and on... and here i am. What began as a hobby turned into a kind of passion: Linux, Python, JavaScript, Node, React, NEXT, TypeScript, and life goes on...
 
 * 🖥️  [skywalkerSam.dev](http://skywalkersam.dev)
 * ✉️  [contact.samskywalker@gmail.com](mailto:contact.samskywalker@gmail.com)
 * 🚀  Currently working on [skywalkerSam.dev](http://skywalkersam.dev)
 * 🧠  Exploring Web Frameworks, and Algorithms rn*
 * 🤝  Open to collaborate on anything cool... lol.)
-* ⚡  A nerd, dreamer, music addict, movies, stories, books, life, physics, cosmos, and whatever tf lies beyond...
+* ⚡  A nerd, dreamer, wanderer, music addict, movies, stories, life, physics, universe, and whatever tf lies beyond...
 
 <!--
 ### Skills
