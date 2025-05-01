@@ -7,7 +7,7 @@ Explorer
 Yeah, fr*
 -->
 
-I've been learning to code for ~6 years now... i started off by installing Ubuntu on my ancient PC, which was having a hard time with Windows. i started learning more and more, and life went on and on... and here i am. What began as a hobby turned into a kind of passion: Linux, Python, JavaScript, Node, React, NEXT, TypeScript, and life goes on...
+I've been learning to code for ~6 years now... i started off by installing Ubuntu on my ancient PC, which was having a hard time with Windows. i started learning more and more, and life went on and on... and here i am. What began as a hobby turned into a kind of passion: Linux, BA$H, Python, JavaScript, Node, React, NEXT, TypeScript, and life goes on...
 
 * 🖥️  [skywalkerSam.dev](http://skywalkersam.dev)
 * ✉️  [contact.samskywalker@gmail.com](mailto:contact.samskywalker@gmail.com)
