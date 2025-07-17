@@ -1,4 +1,4 @@
-👋 i'm Sam, i write and build things...
+👋 i'm Sam, i write and build Stuff.
 ==============================
 
 <!--
@@ -7,7 +7,7 @@ Explorer
 Yeah, fr*
 -->
 
-i've been learning to code for ~6 years now. i started off by installing Ubuntu on my ancient PC, which was having a hard time with Windows. i started learning more and more, and life went on and on... and here i am. What began as a hobby turned into a kind of passion: Linux, BA$H, Python, JavaScript, Node, React, NEXT, TypeScript, and life goes on...
+A wise man once said, "To define is to limit." Nevertheless, here we go... i've been learning to code for ~6 years now. i started off by installing Ubuntu on my ancient PC that was having a hard time with Windows. i started learning more and more, and life went on and on... and here i am. What began as a hobby turned into a kind of passion: Linux, BA$H Scripts, Python, JavaScript, Node, React, Next.js, TypeScript, and life goes on...
 
 <!--
 * 🖥️  [skywalkerSam.dev](http://skywalkersam.dev)
