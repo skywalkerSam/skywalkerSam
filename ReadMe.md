@@ -30,6 +30,7 @@ it holds us. "
 
 - [Recursion](https://github.com/skywalkerSam)
 - [StackExchange](https://stackexchange.com/users/23612310/skywalkersam?tab=accounts)
+- [YouTube](https://www.youtube.com/@skywalkerSam)
 - [Twitter](https://twitter.com/skywalkerSam_)
 - [Bluesky](https://bsky.app/profile/skywalkersam.bsky.social)
 - [Threads](https://www.threads.com/@skywalkersam_)
