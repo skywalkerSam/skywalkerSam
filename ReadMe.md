@@ -15,8 +15,11 @@ As Oscar Wilde said, "*To define is to limit*." Nevertheless, here we go... i've
 ## 🔗 Socials
 
 • [Recursion](https://github.com/skywalkerSam) • [StackExchange](https://stackexchange.com/users/23612310/skywalkersam?tab=accounts) • [YouTube](https://www.youtube.com/@skywalkerSam) 
+
 • [Twitter](https://twitter.com/skywalkerSam_) • [Bluesky](https://bsky.app/profile/skywalkersam.bsky.social) • [Threads](https://www.threads.com/@skywalkersam_)
+
 • [instagram](https://www.instagram.com/skywalkersam_) • [Unsplash](https://unsplash.com/@skywalkersam)
+
 • [Spotify](https://open.spotify.com/user/31x6piag76tphjk2xeblvn2ea4gi)
 
 &nbsp;
