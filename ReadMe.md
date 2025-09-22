@@ -2,7 +2,11 @@
 
 &nbsp;
 
-As Oscar Wilde said, "*To define is to limit*." Nevertheless, here we go... i've been learning to program for *~6* years now (As of 12025 .) i started off by installing Ubuntu 20.04 LTS on my ancient PC, which was having a hard time with Windows 10. i tried various OSes since then. i tried Windows 7, 8, and now, 11. i also tried many other Linux distros, and Ubuntu just felt like that sweet spot. i started learning more and more, as life went on and on, and here i am. What began as a side hustle turned into a hobby, which then turned into a kind of passion: Linux Distros, BA$H, Python, JavaScript, Node, React, Next.js, TypeScript, and life goes on. i love music, i love stories, and i am eternally curious about the nature of things. i like uncovering obscure patterns that govern our existence, as you know it. Along the way, my journey became a story of its own, so i started to write things down, and now i love writing more than anything.
+As Oscar Wilde said, "*To define is to limit*." Nevertheless, here we go... i've been learning to program for *~6* years now (As of 12025 .) i started off with installing Ubuntu 18.04 LTS on my ancient PC running on the legendary `Core 2 Duo` with 4GB of DDR3 Dual Channel memory, which was having a hard time with Windows 10. i tried various OSes since then. i tried Windows 7, 8, and now, 11. i also tried Debian, Fedora, Manjaro, Pop! OS, Linux Mint, Zorin OS, Elementary OS, Kali Linux, Parrot Security OS, openSUSE, Kubuntu, KDE neon, and many other distributions. Ubuntu just felt like that sweet spot, and it gave me a sense of home. Nowadays, i run a dual-boot system with Windows 11 & Ubuntu 24.04 LTS.
+
+i started learning more and more, as life went on and on, and here i am. What began as a side quest became a hobby, then grew into a passion: Linux Distros, BA$H, Python 3, Basic AI & ML Courses, Computational Systems & Networks (IT), Cybersecurity, Game Development with Unreal Engine & C++, JavaScript, Node.js, React.js, Next.js, TypeScript, GSAP, Three.js, and life goes on. Nowadays, i build web applications with Next.js.
+
+i love music, i love stories, i love physics, and i am eternally curious about the nature of things. i like uncovering obscure patterns that govern our existence, as you know it. Along the way, my journey became a story of its own, so i started to write things down, and now i love writing more than anything.
 
 &nbsp;
 
@@ -49,3 +53,8 @@ Until Next Time... ✌️
 ❤️
 
 &nbsp;
+
+P.S. Yes, the choice of using `i` instead of `I` is intentional. And yes, i like the `Holocene calendar` format .)
+
+&nbsp;
+
