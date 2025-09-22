@@ -1,6 +1,6 @@
 # 👋 i'm Sam, i Write & Build Stuff.
 
-"in search of a better understanding of the world"
+"in search of a better understanding of the world."
 
 As Oscar Wilde said, "*To define is to limit*." Nevertheless, here we go... i've been learning to program for *~6* years now (As of 12025 .) i started off with installing Ubuntu 18.04 LTS on my ancient PC running on the legendary `Core 2 Duo` with 4GB of DDR3 Dual Channel memory, which was having a hard time with Windows 10. i tried various OSes since then. i tried Windows 7, 8, and now, 11. i also tried Debian, Fedora, Manjaro, Pop! OS, Linux Mint, Zorin OS, Elementary OS, Kali Linux, Parrot Security OS, openSUSE, Kubuntu, KDE neon, and many other distributions. Ubuntu just felt like that sweet spot, and it gave me a sense of home. Nowadays, i run a dual-boot system with Windows 11 & Ubuntu 24.04 LTS.
 
