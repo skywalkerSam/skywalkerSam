@@ -1,12 +1,12 @@
 # 👋 i'm Sam, i Write & Build Stuff.
 
-&nbsp;
+"in search of a better understanding of the world"
 
 As Oscar Wilde said, "*To define is to limit*." Nevertheless, here we go... i've been learning to program for *~6* years now (As of 12025 .) i started off with installing Ubuntu 18.04 LTS on my ancient PC running on the legendary `Core 2 Duo` with 4GB of DDR3 Dual Channel memory, which was having a hard time with Windows 10. i tried various OSes since then. i tried Windows 7, 8, and now, 11. i also tried Debian, Fedora, Manjaro, Pop! OS, Linux Mint, Zorin OS, Elementary OS, Kali Linux, Parrot Security OS, openSUSE, Kubuntu, KDE neon, and many other distributions. Ubuntu just felt like that sweet spot, and it gave me a sense of home. Nowadays, i run a dual-boot system with Windows 11 & Ubuntu 24.04 LTS.
 
-i started learning more and more, as life went on and on, and here i am. What began as a side quest became a hobby, then grew into a passion: Linux Distros, BA$H, Python 3, Basic AI & ML Courses, Computational Systems & Networks (IT), Cybersecurity, Game Development with Unreal Engine & C++, JavaScript, Node.js, React.js, Next.js, TypeScript, GSAP, Three.js, and life goes on. Nowadays, i build web applications with Next.js.
+  i started learning more and more, as life went on and on, and here i am. What began as a side quest became a hobby, then grew into a passion: Linux Distros, BA$H, Python 3, Basic AI & ML Courses, Computational Systems & Networks (IT), Cybersecurity, Game Development with Unreal Engine & C++, JavaScript, Node.js, React.js, Next.js, TypeScript, GSAP, Three.js, and life goes on. Nowadays, i build web applications with Next.js.
 
-i love music, i love stories, i love physics, and i am eternally curious about the nature of things. i like uncovering obscure patterns that govern our existence, as you know it. Along the way, my journey became a story of its own, so i started to write things down, and now i love writing more than anything.
+  i love music, i love stories, i love physics, and i am eternally curious about the nature of things. i like uncovering obscure patterns that govern our existence, as you know it. Along the way, my journey became a story of its own, so i started to write things down, and now i love writing more than anything.
 
 &nbsp;
 
