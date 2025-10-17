@@ -2,11 +2,11 @@
 
 "in search of a better understanding of the world..."
 
-As Oscar Wilde said, "*To define is to limit*." Nevertheless, here we go... i've been learning to program for *~6* years now (As of the year 12025 .) i started off with installing Ubuntu 18.04 LTS on my ancient PC running on the legendary **Core 2 Duo** with 4GB of DDR3 Dual Channel memory, which was having a hard time with Windows 10. i tried various OSes since then. i went through Windows 7, 8, and now, 11. i did some experimenting with *Custom Android ROMs*. i explored other Ubuntu-based distros, Debian, Fedora, and Arch families, Security-focused, Server-focused, and many other distributions. it's a mess .) After a while, **Ubuntu** just felt like that sweet spot, and it gave me a sense of home. And nowadays, i run a *dual-boot* system with Windows 11 & Ubuntu 24.04 LTS
+&emsp; As Oscar Wilde once said, "**To define is to limit**." Nevertheless, here we go... i've been learning to program for *~6* years now (As of the year 12025 .) i started off with installing Ubuntu 18.04 LTS on my ancient PC running on the legendary **Core 2 Duo** with 4GB of DDR3 Dual Channel memory, which was having a hard time with Windows 10. i tried various OSes since then. i went through Windows 7, 8, and now, 11. i did some experimenting with *Custom Android ROMs*. i explored other Ubuntu-based distros, Debian, Fedora, and Arch families, Security-focused, Server-focused, and many other distributions. it's a mess .) After a while, **Ubuntu** just felt like that sweet spot, and it gave me a sense of home. And nowadays, i run a *dual-boot* system with Windows 11 & Ubuntu 24.04 LTS
 
-  i started learning more and more, as life went on and on, and here i am. What began as a side quest became a hobby, then grew into a passion: Linux Distros, BA$H, Python 3, AI/ML Basics, Computational Systems, Networks, Cybersecurity, Game Development with Unreal Engine & C++, and then, JavaScript, Node.js, React.js, Next.js, TypeScript... and life goes on. Nowadays, i build web applications with Next.js
+&emsp; i started learning more and more, as life went on and on, and here i am. What began as a side quest became a hobby, then grew into a passion: Linux Distros, BA$H, Python 3, AI/ML Basics, Computational Systems, Networks, Cybersecurity, Game Development with Unreal Engine & C++, and then, JavaScript, Node.js, React.js, Next.js, TypeScript... and life goes on. Nowadays, i build web applications with Next.js
 
-  i love music, i love stories, i love physics, and i am eternally curious about the nature of things. i like uncovering obscure patterns that govern our existence, as you know it. Along the way, my journey became a story of its own, so i started to write things down, and now i love writing more than anything. Writing gives me clarity...
+&emsp; i love music, i love stories, i love physics, and i am eternally curious about the nature of things. i like uncovering obscure patterns that govern our existence, as you know it. Along the way, my journey became a story of its own, so i started to write things down, and now i love writing more than anything. Writing gives me clarity...
 
 &nbsp;
 
@@ -32,7 +32,9 @@ As Oscar Wilde said, "*To define is to limit*." Nevertheless, here we go... i've
 
 &nbsp;
 
-"As artists,  
+"Artists shape the world,  
+as you know it.  
+As artists,  
 we reach for something.  
 We try to create something  
 more than ourselves.  
@@ -54,7 +56,7 @@ Until Next Time... ✌️
 
 &nbsp;
 
-P.S. Yes, the choice of using `i` instead of `I` is intentional. And yes, i like the `Holocene calendar` format.)
+*P.S. Yes, the choice of using `i` instead of `I` is intentional. And yes, i like the `Holocene calendar` format .)*
 
 &nbsp;
 
