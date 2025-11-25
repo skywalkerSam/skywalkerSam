@@ -6,7 +6,7 @@
 
 &emsp; i started learning more and more, as life went on and on, and here i am. What began as a side quest became a hobby, then grew into a passion: Linux Distros, BA$H, Python 3, AI/ML Basics, Computational Systems, Networks, Cybersecurity, Game Development with Unreal Engine & C++, and then, JavaScript, Node.js, React.js, Next.js, TypeScript... and life goes on. Nowadays, i build web applications w/ Next.js
 
-&emsp; i love music, i love stories, i love physics, and i am eternally curious about the nature of things. i like uncovering obscure patterns that govern our existence, as you know it. Along the way, my journey became a story of its own, so i started to write things down, and now i love writing more than anything. Writing gives me clarity... it is liberating.
+&emsp; i love music, i love stories, i love physics, and i am eternally curious about the nature of things. i like uncovering obscure patterns that govern our existence, as you know it. Along the way, my journey became a story of its own, so i started to write things down, and now i love writing more than anything. Writing gives me clarity... it is liberating. Understanding is liberating... 
 
 &nbsp;
 
