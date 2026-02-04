@@ -1,6 +1,6 @@
 # 👋 i'm Sam. i write, and i build things.✌️
 
-"*in search of a better understanding of the world...*"
+"*in search of a better understanding of the world.*"
 
 &emsp; As Oscar Wilde once said, "*To define is to limit*." Nevertheless, here we go... i've been learning to program for *~6* years now (As of the year 12025.) i started off with installing Ubuntu 18.04 LTS on my ancient PC running on the legendary *Core 2 Duo* with 4GB of DDR3 Dual Channel memory, which was having a hard time with Windows 10. i tried various OSes since then. i went through Windows 7, 8, and now, 11. i did some experimenting with *Custom Android ROMs*. i explored other Ubuntu-based distros, including Debian, Fedora, and Arch families, as well as Security-focused, Server-focused, and many other distributions (it's a mess.) After a while, *Ubuntu* just felt like that sweet spot, and it gave me a sense of home. Nowadays, i run a *dual-boot* system with Windows 11 & Ubuntu 24.04 LTS.
 
