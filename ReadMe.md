@@ -1,4 +1,4 @@
-# 👋 i'm Sam. i write, and i build things ✌️
+# 👋 i'm Sam. i write, and i build things✌️
 
 "*in search of a better understanding of the world.*"
 
@@ -10,7 +10,7 @@
 
 &nbsp;
 
-## 🌐 Sources
+## 🌐 Links
 
 • [skywalkerSam.dev](https://skywalkersam.dev) • [Projects](https://projects.skywalkersam.dev) • [Blog](https://blog.skywalkersam.dev)
 
@@ -39,7 +39,7 @@ we reach for something,
 We try to create something  
 more than ourselves.  
 Something bigger than ourselves.  
-Creations are symbiotic in nature;  
+Art is symbiotic in nature;
 We shape it,  
 As much as it shapes us.  
 We do not hold it —  
@@ -49,7 +49,7 @@ it holds us.”
 
 &nbsp;
 
-Until Next Time... ✌️
+Until next time... ✌️
 
 &nbsp;
 
@@ -57,7 +57,7 @@ Until Next Time... ✌️
 
 &nbsp;
 
-*P.S. Yes, the choice of using `i` instead of `I` is intentional. And yes, i like the `Holocene calendar` format.)*
+<!--*P.S. Yes, the choice of using `i` instead of `I` is intentional. And yes, i like the `Holocene calendar` format.)*-->
 
 &nbsp;
 
