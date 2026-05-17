@@ -12,26 +12,23 @@
 
 ## 🌐 Links
 
-• [skywalkerSam.dev](https://skywalkersam.dev) • [Projects](https://projects.skywalkersam.dev) • [Blog](https://blog.skywalkersam.dev)
+• [skywalkerSam.dev](https://skywalkersam.dev) &emsp;• [Projects](https://projects.skywalkersam.dev) &emsp;• [Blog](https://blog.skywalkersam.dev)
 
 &nbsp;
 
 ## 🔗 Socials
 
-• [Recursion](https://github.com/skywalkerSam) • [StackExchange](https://stackexchange.com/users/23612310/skywalkersam?tab=accounts) • [YouTube](https://www.youtube.com/@skywalkerSam) 
+• [Threads](https://www.threads.com/@skywalkersam_) &emsp;• [Twitter](https://twitter.com/skywalkerSam_) &emsp;• [Bluesky](https://bsky.app/profile/skywalkersam.bsky.social)
 
-• [Twitter](https://twitter.com/skywalkerSam_) • [Bluesky](https://bsky.app/profile/skywalkersam.bsky.social) • [Threads](https://www.threads.com/@skywalkersam_)
+• [Unsplash](https://unsplash.com/@skywalkersam) &emsp;• [instagram](https://www.instagram.com/skywalkersam_)
 
-• [instagram](https://www.instagram.com/skywalkersam_) • [Unsplash](https://unsplash.com/@skywalkersam)
+• [Recursion](https://github.com/skywalkerSam) &emsp;• [StackExchange](https://stackexchange.com/users/23612310/skywalkersam?tab=accounts) &emsp;• [YouTube](https://www.youtube.com/@skywalkerSam) 
 
-• [Spotify](https://open.spotify.com/user/31x6piag76tphjk2xeblvn2ea4gi)
-
-&nbsp;
-
-<a href="http://www.github.com/skywalkersam"><img src="https://github-readme-stats.vercel.app/api?username=skywalkersam&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=3382ed&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="skywalkersam's GitHub stats" /></a>
+<!--• [Spotify](https://open.spotify.com/user/31x6piag76tphjk2xeblvn2ea4gi)-->
 
 &nbsp;
 
+<!--
 “Artists shape the world,  
 as you know it.  
 As artists,  
@@ -48,6 +45,7 @@ it holds us.”
 ———
 
 &nbsp;
+-->
 
 Until next time... ✌️
 
@@ -57,7 +55,8 @@ Until next time... ✌️
 
 &nbsp;
 
-<!--*P.S. Yes, the choice of using `i` instead of `I` is intentional. And yes, i like the `Holocene calendar` format.)*-->
+<!--
+*P.S. Yes, the choice of using `i` instead of `I` is intentional. And yes, i like the `Holocene calendar` format.)*
 
 &nbsp;
-
+-->
