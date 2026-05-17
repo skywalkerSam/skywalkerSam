@@ -39,7 +39,7 @@ we reach for something,
 We try to create something  
 more than ourselves.  
 Something bigger than ourselves.  
-Art is symbiotic in nature;
+Art is symbiotic in nature;  
 We shape it,  
 As much as it shapes us.  
 We do not hold it —  
