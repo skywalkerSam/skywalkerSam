@@ -1,4 +1,4 @@
-# 👋 i'm Sam. i write, and i build things✌️
+# 👋 i'm Sam. i write, and i build things.
 
 "*in search of a better understanding of the world.*"
 
